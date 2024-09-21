@@ -1,0 +1,236 @@
+
+
+                                               /* for navbar */
+    body{margin: 0px;}
+#navbar{
+    height: 60px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+a{ color: white;
+text-decoration: none;
+float: left;
+width: 150px;
+height: 40px;
+text-align: center;
+padding-top: 15px;
+
+}
+a:hover{background-color: gray;}
+#search{
+    
+    height: 60px;
+    width: 120px;
+    float: right;
+    padding-top:10px;
+    text-align: center;
+    text-decoration: none;
+}
+                                         /* photo */
+#name{position: absolute;
+    bottom: 25px;
+    left: 650px;
+    color: white;}
+#name2{position: absolute;
+    bottom: 10px;
+    left: 600px;
+    color: white;}
+
+                                  /* headings and paragraph */
+
+    #band  {text-align: center;}
+    #music{text-align: center;}
+    #para{width: 800px; height: 150px;
+    position: absolute;left: 400px;
+    text-align: left;
+    
+}
+                             /* multiple images */
+img:hover{
+}
+#image{
+    height: 200px;
+    width: 800px;
+    position: relative;
+    top: 150px;
+    left: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+#head{
+    position: relative;
+    top: 200px;
+    left: 430px;
+}
+#head2{position: relative;
+    top: 170px;
+    left: 730px;}
+    #head3{position: relative;
+        top: 136px;
+        left: 1030px;}
+
+
+#tour{
+    height: 900px;
+    width: 100%;
+    background-color: black;
+
+    position: relative;
+    top: 300px;
+}
+#date{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+#rem{
+    color: azure;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+#sept{
+    height: 30px;
+    width: 900px;
+    background-color: white;
+    color: grey;
+    position: relative;
+    top: 115px;
+    left: 400px;
+    ;
+}
+#sold{height: 20px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    position: relative;
+    top: 73px;
+    left: 580px;
+    text-align: center;
+}
+#oct{ height: 30px;
+    width: 900px;
+    background-color: white;
+    color: gray;
+    position: relative;
+    top: 65px;
+    left: 400px;}
+#sold2{height: 20px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    position: relative;
+    bottom: 370px;
+    left: 530px;
+    text-align: center;
+}
+#nov{ height: 30px;
+    width: 900px;
+    background-color: white;
+    color: gray;
+    position: relative;
+    bottom: 380px;
+    left: 400px;
+}
+ #three{width: 100px;
+        height: 100px;
+        background-color: rgb(151, 25, 25);
+        border-radius: 50%;
+
+ }
+ #new{
+    background-color:white;
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 400px;
+    bottom: 350px;
+    text-align: center;
+ }
+ #new2{background-color:white;
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 720px;
+    bottom: 750px;
+    text-align: center;
+ }
+#san{background-color:white;
+    height: 400px;
+    width: 250px;
+    position: relative;
+    left: 1050px;
+    bottom: 1150px;
+    text-align: center;
+ }
+
+
+
+
+                                /* footer */
+    #content{text-align: center;
+    position: relative;
+bottom: 800px;}
+#fan{text-align: center;
+position: relative;
+bottom: 800px;}
+
+#i1{
+    position: relative;
+    left: 350px;
+    bottom: 750px;
+}
+#i2{position: relative;
+left:320px ;
+bottom:705px ;}
+#i3{position: relative;
+left:285px ;
+bottom: 665px;}
+#location{
+    position: relative;
+    left: 400px;
+    bottom: 800px;
+    font-size: 20px;
+}
+#New{
+    position: relative;
+    left: 800px;
+    bottom: 930px;
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+}
+#email{ position: relative;
+    left: 830px;
+    bottom: 930px;
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+}
+#message{ position: relative;
+    left: 380px;
+    bottom: 890px;
+    font-size: 20px;
+    width: 440px;
+    height: 30px;
+}
+#button{ position: relative;
+    left: 275px;
+    bottom: 850px;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+#map{
+    position: relative;
+    bottom: 700px;
+}
